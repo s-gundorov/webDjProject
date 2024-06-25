@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d58443be-c05c-476a-9eec-3b5cb047f332" name="Changes" comment="111">
-      <change afterPath="$PROJECT_DIR$/prog1/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/static/main/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,15 +26,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2iH5HaeSCIYwAldpNQtl070i9rk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,15 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user-pc\PycharmProjects\webDjProject\prog1\main\static\main\img" />
+      <recent name="C:\Users\user-pc\PycharmProjects\webDjProject\prog1\main\static\main" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="webDjProject" />

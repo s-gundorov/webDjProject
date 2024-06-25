@@ -1,0 +1,32 @@
+{% extends 'main/layoute.html' %}
+
+{% block title %}
+    <title>Последние новости о Django</title>
+{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1>Последние новости о Django</h1>
+    <hr>
+    <article class="mb-5">
+        <h2>Вышел Django 3.2</h2>
+        <p class="text-muted">Опубликовано 02 апреля 2021</p>
+        <p>Недавно была выпущена новая версия Django 3.2, которая вносит множество улучшений и нововведений, включая поддержку автоматических миграции приложений, улучшенные возможности административного интерфейса и многое другое.</p>
+        <a href="#" class="btn btn-primary">Подробнее</a>
+    </article>
+
+    <article class="mb-5">
+        <h2>DjangoCon Europe 2021 будет проведена онлайн</h2>
+        <p class="text-muted">Опубликовано 15 мая 2021</p>
+        <p>В этом году DjangoCon Europe пройдет в полностью онлайн формате. Конференция соберет разработчиков со всего мира для обмена опытом и лучшими практиками работы с Django.</p>
+        <a href="#" class="btn btn-primary">Подробнее</a>
+    </article>
+
+    <article>
+        <h2>Как установить Django на Windows</h2>
+        <p class="text-muted">Опубликовано 01 июня 2021</p>
+        <p>Установка Django на Windows требует выполнения нескольких шагов, но это довольно простой процесс. В нашем последнем блоге мы подробно рассказываем, как настроить вашу среду для работы с Django.</p>
+        <a href="#" class="btn btn-primary">Подробнее</a>
+    </article>
+</div>
+{% endblock %}
