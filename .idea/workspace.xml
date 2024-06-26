@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d58443be-c05c-476a-9eec-3b5cb047f332" name="Changes" comment="111">
-      <change afterPath="$PROJECT_DIR$/prog1/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/static/main/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/layoute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog1/main/templates/main/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/news/templates/news/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog1/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog1/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/main/templates/main/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/main/templates/main/layoute.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog1/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/prog1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/prog1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog1/prog1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog1/prog1/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
